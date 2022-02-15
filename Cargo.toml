@@ -1,0 +1,9 @@
+[package]
+name = "skippy"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+slab = "0.4"
+rhai = "1.5"
+url = "2.2.2"

@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.files.excludeDirs": [
+    "*.skippy"
+  ],
+  "files.watcherExclude": {
+    "*.skippy": true
+  }
+}
